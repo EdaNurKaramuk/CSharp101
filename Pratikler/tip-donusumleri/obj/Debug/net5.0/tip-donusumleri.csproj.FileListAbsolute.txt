@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\bin\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\obj\Debug\net5.0\ref\tip-donusumleri.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.genruntimeconfig.cache
