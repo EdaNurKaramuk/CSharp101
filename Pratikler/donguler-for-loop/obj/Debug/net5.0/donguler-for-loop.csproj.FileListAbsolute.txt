@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\bin\Debug\net5.0\ref\donguler-for-loop.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\obj\Debug\net5.0\ref\donguler-for-loop.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.genruntimeconfig.cache
