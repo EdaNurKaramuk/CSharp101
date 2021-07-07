@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\bin\Debug\net5.0\metotlar-recursive-extension.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\bin\Debug\net5.0\metotlar-recursive-extension.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\bin\Debug\net5.0\metotlar-recursive-extension.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\bin\Debug\net5.0\metotlar-recursive-extension.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\bin\Debug\net5.0\metotlar-recursive-extension.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\bin\Debug\net5.0\ref\metotlar-recursive-extension.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\bin\Debug\net5.0\metotlar-recursive-extension.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\obj\Debug\net5.0\metotlar-recursive-extension.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\obj\Debug\net5.0\metotlar-recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\obj\Debug\net5.0\metotlar-recursive-extension.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\obj\Debug\net5.0\metotlar-recursive-extension.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\obj\Debug\net5.0\metotlar-recursive-extension.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\obj\Debug\net5.0\metotlar-recursive-extension.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\obj\Debug\net5.0\ref\metotlar-recursive-extension.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\obj\Debug\net5.0\metotlar-recursive-extension.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\metotlar-recursive-extension\obj\Debug\net5.0\metotlar-recursive-extension.genruntimeconfig.cache
