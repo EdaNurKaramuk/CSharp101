@@ -52,7 +52,7 @@ namespace metotlar_recursive_extension
         //Expo(3,4)
         //Expo(3,3) * 3
         //Expo(3,2) * 3 * 3
-        //Expo(3,2) * 3 * 3 * 3
+        //Expo(3,1) * 3 * 3 * 3
         // 3 * 3 * 3 * 3
     }
 
