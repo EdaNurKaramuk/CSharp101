@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\ref\hazir-metotlar-datetime-math.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net5.0\hazir-metotlar-datetime-math.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\ref\hazir-metotlar-datetime-math.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net5.0\hazir-metotlar-datetime-math.genruntimeconfig.cache
