@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\bin\Debug\net5.0\ref\hazir-metotlar-string.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\obj\Debug\net5.0\ref\hazir-metotlar-string.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.genruntimeconfig.cache
