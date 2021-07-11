@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\bin\Debug\net5.0\array-list.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\bin\Debug\net5.0\array-list.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\bin\Debug\net5.0\array-list.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\bin\Debug\net5.0\array-list.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\bin\Debug\net5.0\array-list.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\bin\Debug\net5.0\ref\array-list.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\bin\Debug\net5.0\array-list.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\obj\Debug\net5.0\array-list.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\obj\Debug\net5.0\array-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\obj\Debug\net5.0\array-list.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\obj\Debug\net5.0\array-list.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\obj\Debug\net5.0\array-list.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\obj\Debug\net5.0\array-list.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\obj\Debug\net5.0\ref\array-list.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\obj\Debug\net5.0\array-list.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\array-list\obj\Debug\net5.0\array-list.genruntimeconfig.cache
