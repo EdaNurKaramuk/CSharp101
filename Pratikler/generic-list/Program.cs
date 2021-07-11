@@ -81,14 +81,14 @@ namespace generic_list
 
             //List içerisinde nesne tutmak
             Console.WriteLine("*** List içerisinde nesne tutmak ***");
-            List<Kullanıcılar> kullaniciListesi = new List<Kullanıcılar>();
+            List<Kullanicilar> kullaniciListesi = new List<Kullanicilar>();
 
-            Kullanıcılar kullanici1 = new Kullanıcılar();
+            Kullanicilar kullanici1 = new Kullanicilar();
             kullanici1.Isim = "Eda";
             kullanici1.Soyisim = "Karamuk";
             kullanici1.Yas = 21;
 
-            Kullanıcılar kullanici2 = new Kullanıcılar();
+            Kullanicilar kullanici2 = new Kullanicilar();
             kullanici2.Isim = "Ayşe";
             kullanici2.Soyisim = "Yılmaz";
             kullanici2.Yas = 15;
@@ -96,14 +96,14 @@ namespace generic_list
             kullaniciListesi.Add(kullanici1);
             kullaniciListesi.Add(kullanici2);
 
-            List<Kullanıcılar> yeniListe = new List<Kullanıcılar>();
-            yeniListe.Add(new Kullanıcılar(){
+            List<Kullanicilar> yeniListe = new List<Kullanicilar>();
+            yeniListe.Add(new Kullanicilar(){
                 Isim = "Deniz",
                 Soyisim = "Arda",
                 Yas = 32
             });
 
-            foreach (Kullanıcılar kullanici in kullaniciListesi)
+            foreach (Kullanicilar kullanici in kullaniciListesi)
             {
                 Console.WriteLine("Kullanıcı Adı: " + kullanici.Isim);
                 Console.WriteLine("Kullanıcı Soyadı: " + kullanici.Soyisim);
@@ -116,7 +116,7 @@ namespace generic_list
         }
     }
 
-    public class Kullanıcılar
+    public class Kullanicilar
     {
         string isim; 
         string soyisim;
