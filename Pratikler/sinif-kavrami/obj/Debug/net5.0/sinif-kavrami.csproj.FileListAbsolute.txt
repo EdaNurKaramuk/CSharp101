@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\bin\Debug\net5.0\ref\sinif-kavrami.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\obj\Debug\net5.0\ref\sinif-kavrami.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.genruntimeconfig.cache
