@@ -17,7 +17,7 @@ namespace static_sinif_ve_uyeler
 
             //Static Class Kullanımı
             Console.WriteLine("Toplam= " + Islemler.Topla(100,200));
-            Console.WriteLine("Toplam= " + Islemler.Cikar(400,50));
+            Console.WriteLine("Fark= " + Islemler.Cikar(400,50));
         }
     }
 
@@ -45,7 +45,7 @@ namespace static_sinif_ve_uyeler
     }
 
 
-    //Static class'ın içerisindeki propert, metodlar da static olmak zorundadır. Ve static class'tan kalıtım alınamaz.
+    //Static class'ın içerisindeki property, metodlar da static olmak zorundadır. Ve static class'tan kalıtım alınamaz.
     static class Islemler
     {
         public static long Topla(int sayi1, int sayi2)
