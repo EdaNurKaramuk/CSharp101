@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\bin\Debug\net5.0\ref\kurucu-metotlar.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\bin\Debug\net5.0\kurucu-metotlar.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\obj\Debug\net5.0\ref\kurucu-metotlar.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kurucu-metotlar\obj\Debug\net5.0\kurucu-metotlar.genruntimeconfig.cache
