@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\bin\Debug\net5.0\enum-kavrami.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\bin\Debug\net5.0\enum-kavrami.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\bin\Debug\net5.0\enum-kavrami.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\bin\Debug\net5.0\enum-kavrami.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\bin\Debug\net5.0\enum-kavrami.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\bin\Debug\net5.0\ref\enum-kavrami.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\bin\Debug\net5.0\enum-kavrami.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\obj\Debug\net5.0\enum-kavrami.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\obj\Debug\net5.0\enum-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\obj\Debug\net5.0\enum-kavrami.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\obj\Debug\net5.0\enum-kavrami.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\obj\Debug\net5.0\enum-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\obj\Debug\net5.0\enum-kavrami.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\obj\Debug\net5.0\ref\enum-kavrami.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\obj\Debug\net5.0\enum-kavrami.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\enum-kavrami\obj\Debug\net5.0\enum-kavrami.genruntimeconfig.cache
