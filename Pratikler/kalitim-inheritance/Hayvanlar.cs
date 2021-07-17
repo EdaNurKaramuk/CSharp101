@@ -8,6 +8,11 @@ namespace kalitim_inheritance
         {
             Console.WriteLine("Hayvanlar sürüler halinde hareket eder.");
         }
+        public override void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki(); //base class'taki metodu çalıştırır.
+            Console.WriteLine("Hayvanlar temasa tepki verir.");
+        }
     }
 
     public class Kus : Hayvanlar

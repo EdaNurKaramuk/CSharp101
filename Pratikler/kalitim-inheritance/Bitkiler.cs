@@ -8,10 +8,20 @@ namespace kalitim_inheritance
         {
             Console.WriteLine("Bitkiler fotosentez yapar.");
         }
+
+        public override void UyaranlaraTepki()
+        {
+            //base.UyaranlaraTepki();
+            Console.WriteLine("Bitkiler güneşe tepki verir.");
+        }
     }
 
     public class TohumluBitkiler : Bitkiler
     {
+        public TohumluBitkiler()
+        {
+            base.UyaranlaraTepki();
+        }
         public void TohumlaCogalma()
         {
             Console.WriteLine("Tohumlu bitkiler tohumla çoğalır.");
