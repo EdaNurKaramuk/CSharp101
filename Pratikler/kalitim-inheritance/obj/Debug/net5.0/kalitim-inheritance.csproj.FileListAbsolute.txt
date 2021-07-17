@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\bin\Debug\net5.0\kalitim-inheritance.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\bin\Debug\net5.0\kalitim-inheritance.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\bin\Debug\net5.0\kalitim-inheritance.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\bin\Debug\net5.0\kalitim-inheritance.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\bin\Debug\net5.0\kalitim-inheritance.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\bin\Debug\net5.0\ref\kalitim-inheritance.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\bin\Debug\net5.0\kalitim-inheritance.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\obj\Debug\net5.0\kalitim-inheritance.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\obj\Debug\net5.0\kalitim-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\obj\Debug\net5.0\kalitim-inheritance.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\obj\Debug\net5.0\kalitim-inheritance.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\obj\Debug\net5.0\kalitim-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\obj\Debug\net5.0\kalitim-inheritance.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\obj\Debug\net5.0\ref\kalitim-inheritance.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\obj\Debug\net5.0\kalitim-inheritance.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\kalitim-inheritance\obj\Debug\net5.0\kalitim-inheritance.genruntimeconfig.cache
