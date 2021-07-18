@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\bin\Debug\net5.0\ref\arayuzler-interface.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\bin\Debug\net5.0\arayuzler-interface.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\obj\Debug\net5.0\ref\arayuzler-interface.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface\obj\Debug\net5.0\arayuzler-interface.genruntimeconfig.cache
