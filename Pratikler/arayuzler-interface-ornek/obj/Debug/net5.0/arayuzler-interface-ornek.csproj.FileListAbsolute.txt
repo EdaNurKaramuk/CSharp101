@@ -1,0 +1,16 @@
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\bin\Debug\net5.0\arayuzler-interface-ornek.exe
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\bin\Debug\net5.0\arayuzler-interface-ornek.deps.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\bin\Debug\net5.0\arayuzler-interface-ornek.runtimeconfig.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\bin\Debug\net5.0\arayuzler-interface-ornek.runtimeconfig.dev.json
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\bin\Debug\net5.0\arayuzler-interface-ornek.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\bin\Debug\net5.0\ref\arayuzler-interface-ornek.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\bin\Debug\net5.0\arayuzler-interface-ornek.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\obj\Debug\net5.0\arayuzler-interface-ornek.csproj.AssemblyReference.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\obj\Debug\net5.0\arayuzler-interface-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\obj\Debug\net5.0\arayuzler-interface-ornek.AssemblyInfoInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\obj\Debug\net5.0\arayuzler-interface-ornek.AssemblyInfo.cs
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\obj\Debug\net5.0\arayuzler-interface-ornek.csproj.CoreCompileInputs.cache
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\obj\Debug\net5.0\arayuzler-interface-ornek.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\obj\Debug\net5.0\ref\arayuzler-interface-ornek.dll
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\obj\Debug\net5.0\arayuzler-interface-ornek.pdb
+C:\Users\eda_n\OneDrive\Masaüstü\C# 101\Pratikler\arayuzler-interface-ornek\obj\Debug\net5.0\arayuzler-interface-ornek.genruntimeconfig.cache
